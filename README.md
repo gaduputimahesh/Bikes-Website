@@ -12,18 +12,7 @@ Admin Panel for Management
 
 Static and Media File Handling
 
-# 📂 Project Structure
 
-
-bikes-project/
-                  ├── bikes/          # Main Django Project
-                 ├── login/          # Authentication App
-├── static/         # Static files (CSS, JS, Images)
-├── media/          # Media files (Uploads)
-├── templates/      # HTML templates
-├── manage.py       # Django Management Script
-├── db.sqlite3      # SQLite Database
-├── requirements.txt # Project Dependencies
 
 # 🛠 Installation
 
