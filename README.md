@@ -14,6 +14,13 @@ Static and Media File Handling
 
 
 
+# Home Page 
+![Screenshot (187)](https://github.com/user-attachments/assets/b556539d-a82f-45d4-b220-fc5a327d2cc3)
+
+# Login Page
+![Screenshot (188)](https://github.com/user-attachments/assets/1b1e93e3-4a52-4037-9f14-51770b9bdbdf)
+
+
 # 🛠 Installation
 
 1️⃣ Clone the Repository
@@ -37,10 +44,6 @@ python manage.py runserver
 Open your browser and go to:
 
 http://127.0.0.1:8000/
-
-🖼 Screenshots
-
-
 
 
 # 📜 Environment Variables
