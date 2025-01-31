@@ -14,6 +14,7 @@ Static and Media File Handling
 
 # 📂 Project Structure
 
+
 bikes-project/
 ├── bikes/          # Main Django Project
 ├── login/          # Authentication App
