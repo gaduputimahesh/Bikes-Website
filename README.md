@@ -46,15 +46,15 @@ Open your browser and go to:
 http://127.0.0.1:8000/
 
 
-# 📜 Environment Variables
+#  Environment Variables
 
 Create a .env file (if required) and add secret keys, database credentials, etc.
 
-# 🖼 Static & Media Files
+#  Static & Media Files
 
 python manage.py collectstatic
 
-# 🏗 Deployment 
+# Deployment 
 
 For deployment, use services like Heroku, AWS, or DigitalOcean.
 # Thank You
