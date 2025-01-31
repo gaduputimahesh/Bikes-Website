@@ -16,8 +16,8 @@ Static and Media File Handling
 
 
 bikes-project/
-├── bikes/          # Main Django Project
-├── login/          # Authentication App
+                  ├── bikes/          # Main Django Project
+                 ├── login/          # Authentication App
 ├── static/         # Static files (CSS, JS, Images)
 ├── media/          # Media files (Uploads)
 ├── templates/      # HTML templates
